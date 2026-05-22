@@ -6,12 +6,6 @@
 
 *Stop sending the same resume to every job. Let AI tailor it for each one.*
 
-[
-[
-[
-[
-[
-
 </div>
 
 ***
